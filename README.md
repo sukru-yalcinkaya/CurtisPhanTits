@@ -16,5 +16,3 @@ Output: The output is the list of generators of subgroups isomorphic to (P)SL2 f
 The code can be run by the function call CPT("Generators of a group", "Exponent of the group").
 
 For more information about the code, see “About_the_code.pdf”.
-
-
