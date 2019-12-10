@@ -3,8 +3,11 @@ This GAP code is prepared to construct Curtis-Tits and (pseudo) Phan systems for
 In this GAP code, we consider black box groups encrypting one of the following classical groups defined over a field of odd characteristic with the size of the underlying field q > 5. In the items below, “…” means that all the intermediate subgroups and factor groups are considered. 
 
 • PSL(n+1,q),…, SL(n+1,q) — group of type An, n>1.
+
 • Sp(2n,q), PSp(2n,q) — group of type Cn, n>1.
+
 • P(2n+1,q),…, SO(2n+1,q) — group of type Bn, n>1.
+
 • P+(2n,q),…, SO+(2n,q) — group of type Dn, n>2.
 
 Input: A list of generators of one of the groups of Lie type above and an exponent of the group. 
